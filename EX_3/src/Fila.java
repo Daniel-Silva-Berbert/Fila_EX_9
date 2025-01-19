@@ -1,5 +1,5 @@
 public class Fila {
-    public String[] senhas = new String[1];
+    public String[] senhas = new String[50];
     private int inicio = 0;
     private int fim = 0;
     private int tamanho = 0;
